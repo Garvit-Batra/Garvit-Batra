@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👯 I’m looking to collaborate on **real world projects**
+<!-- - 👯 I’m looking to collaborate on **real world projects** -->
 
 - 📫 How to reach me **batra.garvit28@gmail.com**
 
