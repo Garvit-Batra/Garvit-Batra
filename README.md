@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garvit Batra</h1>
-<h3 align="center">Third-year CSE student working on gaining proficiency in MERN Stack Web Development and Data science fundamentals</h3>
+<h3 align="center">Final year CSE student working on gaining proficiency in MERN Stack Web Development and Data science fundamentals</h3>
 
 - 🌱 I’m currently learning **ReactJs**
 
