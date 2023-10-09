@@ -7,7 +7,7 @@
 
 - 👨‍💻 You can check my online resume [Click here](https://garvitbatra.netlify.app/)
 
-- 💬 Ask me about **Web development, Problem Solving etc.**
+- 💬 Ask me about **Full Stack development,Data Science, Problem Solving etc.**
 
 - 📫 How to reach me **batra.garvit28@gmail.com**
 
